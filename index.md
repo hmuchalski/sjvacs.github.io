@@ -9,7 +9,7 @@ layout: home
 ---
 The San Joaquin Valley Section of the American Chemical Society is a local professional organization that serves chemists and individuals involved in chemistry related professions in Fresno, CA and surrounding areas. Members come from both chemical industry and academics, and include both those who are employed in the field as well as students studying in the field. Current membership is approximately 200 members.
 
-## Executive Committee
+## Executive Committee (2023)
 
 - Kristi Closser (Chair-Elect)
 - Christopher Dillon (Chair)
